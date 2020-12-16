@@ -1,5 +1,9 @@
+// This file is based on this video here:
 // https://www.youtube.com/watch?v=jdU5X3GJXBs
 // ?. JavaScript 2020's Optional Chaining by Better Dev
+
+// ...and is available here live on codepen:
+// https://codepen.io/richardburd/pen/gOwWRNO
 
 const animals = {
   dog: { name: 'Bella'},
